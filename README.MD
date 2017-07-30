@@ -13,4 +13,4 @@ kevin@kvncoding.nl
 
 Thank you for the support.
 
-(0.1.0) : Added changelog file, set-up the workspace for this project with codekit.
+(0.0.1) : Added changelog file, set-up the workspace for this project with codekit.
